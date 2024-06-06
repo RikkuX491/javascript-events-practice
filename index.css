@@ -33,10 +33,6 @@ body {
   margin-left: 20px;
 }
 
-/* #cart-list li::before {
-  content: "";
-} */
-
 .cart-item-message {
   font-size: 16px;
 }
